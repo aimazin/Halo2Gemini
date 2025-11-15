@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Financial Forecaster",
+  "description": "An advanced asset pricing forecaster using a simulated ensemble of machine learning models powered by the Gemini API. It predicts future closing prices based on historical data and key economic indicators.",
+  "requestFramePermissions": []
+}
